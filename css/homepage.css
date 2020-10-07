@@ -9,7 +9,7 @@ body {
         footer
         -*/
         background-color:#fff;   
-        grid-template-rows:0.15fr 0.5fr 3fr 2fr 1fr ;
+        grid-template-rows:0.15fr 0.5fr 2fr 1fr 1fr ;
         grid-template-columns:1fr ; 
         grid-template-areas:
         "menu-bar"
@@ -39,7 +39,7 @@ body {
 }
 .menu-bar ul li {
     background: #708090;
-    width: 123px;
+    width: 135px;
     /*border: 0.5px solid #fff;
     /*height:px;*/
     line-height: 50px;
